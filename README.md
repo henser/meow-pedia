@@ -1,4 +1,5 @@
 # jellynote-hs
+Jellynote frontend code challenge
 
 ## Project setup
 ```
