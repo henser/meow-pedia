@@ -10,7 +10,7 @@
       </b-card-text>
     </b-card-body>
     <b-card-footer class="bg-white border-0 pb-0">
-      <b-link :href="item.breeds[0].wikipedia_url"> Read more </b-link>
+      <b-link :href="item.breeds[0].wikipedia_url" target='_blank'> Read more </b-link>
     </b-card-footer>
   </b-card>
 </template>
