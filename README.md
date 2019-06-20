@@ -28,17 +28,22 @@ npm run build
 ### Screenshots
 
 ![Meow-pedia! Screenshot #1][meow-pedia-1]
+
 ![Meow-pedia! Screenshot #2][meow-pedia-2]
+
 ![Meow-pedia! Screenshot #3][meow-pedia-3]
+
 ![Meow-pedia! Screenshot #4][meow-pedia-4]
+
 ![Meow-pedia! Screenshot #5][meow-pedia-5]
+
 ![Meow-pedia! Screenshot #6][meow-pedia-6]
 
-[meow-pedia-1]: https://raw.githubusercontent.com/henser/meow-pedia/master/src/assets/screenshots/meow-pedia-1.png?token=AAN64GT6ANZWGOO3ZW6VBWK5BOPZ4 "Meow-pedia! 1"
-[meow-pedia-2]: https://raw.githubusercontent.com/henser/meow-pedia/master/src/assets/screenshots/meow-pedia-2.png "Meow-pedia! 2"
+If you have any questions or need any assistance don't hesitate to contact me.
+
+[meow-pedia-1]: ./src/assets/screenshots/meow-pedia-1.png "Meow-pedia! 1"
+[meow-pedia-2]: ./src/assets/screenshots/meow-pedia-2.png "Meow-pedia! 2"
 [meow-pedia-3]: ./src/assets/screenshots/meow-pedia-3.png "Meow-pedia! 3"
 [meow-pedia-4]: ./src/assets/screenshots/meow-pedia-4.png "Meow-pedia! 4"
 [meow-pedia-5]: ./src/assets/screenshots/meow-pedia-5.png "Meow-pedia! 5"
 [meow-pedia-6]: ./src/assets/screenshots/meow-pedia-6.png "Meow-pedia! 6"
-
-If you have any questions or need any assistance don't hesitate to contact me.
