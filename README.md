@@ -34,11 +34,11 @@ npm run build
 ![Meow-pedia! Screenshot #5][meow-pedia-5]
 ![Meow-pedia! Screenshot #6][meow-pedia-6]
 
-[meow-pedia-1]: https://github.com/henser/meow-pedia/src/assets/screenshots/meow-pedia-1.png "Meow-pedia! 1"
-[meow-pedia-2]: https://github.com/henser/meow-pedia/src/assets/screenshots/meow-pedia-2.png "Meow-pedia! 2"
-[meow-pedia-3]: https://github.com/henser/meow-pedia/src/assets/screenshots/meow-pedia-3.png "Meow-pedia! 3"
-[meow-pedia-4]: https://github.com/henser/meow-pedia/src/assets/screenshots/meow-pedia-4.png "Meow-pedia! 4"
-[meow-pedia-5]: https://github.com/henser/meow-pedia/src/assets/screenshots/meow-pedia-5.png "Meow-pedia! 5"
-[meow-pedia-6]: https://github.com/henser/meow-pedia/src/assets/screenshots/meow-pedia-6.png "Meow-pedia! 6"
+[meow-pedia-1]: https://github.com/henser/meow-pedia/tree/master/src/assets/screenshots/meow-pedia-1.png "Meow-pedia! 1"
+[meow-pedia-2]: https://github.com/henser/meow-pedia/tree/master/src/assets/screenshots/meow-pedia-2.png "Meow-pedia! 2"
+[meow-pedia-3]: https://github.com/henser/meow-pedia/tree/master/src/assets/screenshots/meow-pedia-3.png "Meow-pedia! 3"
+[meow-pedia-4]: https://github.com/henser/meow-pedia/tree/master/src/assets/screenshots/meow-pedia-4.png "Meow-pedia! 4"
+[meow-pedia-5]: https://github.com/henser/meow-pedia/tree/master/src/assets/screenshots/meow-pedia-5.png "Meow-pedia! 5"
+[meow-pedia-6]: https://github.com/henser/meow-pedia/tree/master/src/assets/screenshots/meow-pedia-6.png "Meow-pedia! 6"
 
 If you have any questions or need any assistance don't hesitate to contact me.
